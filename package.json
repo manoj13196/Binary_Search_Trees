@@ -1,0 +1,20 @@
+{
+  "name": "binary_search_trees",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj13196/Binary_Search_Trees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoj13196/Binary_Search_Trees/issues"
+  },
+  "homepage": "https://github.com/manoj13196/Binary_Search_Trees.git"
+}
